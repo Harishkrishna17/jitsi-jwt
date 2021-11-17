@@ -1,0 +1,12 @@
+{
+    "name": "harish/jitsi-jwt",
+    "require": {
+        "firebase/php-jwt": "^5.5"
+    },
+    "authors": [
+        {
+            "name": "Harish",
+            "email": "harishkrishna17@gmail.com"
+        }
+    ]
+}
